@@ -1,8 +1,5 @@
 /*
- * Roswell James Castaneda
- * 820249749
  * CS310 Lab1: Software Decode
- *
  *
  * Programmer Notes:
  * Only 1st instance of signals will be found.
